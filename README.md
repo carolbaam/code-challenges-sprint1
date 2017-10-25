@@ -25,4 +25,5 @@ Comparar la longitud de la tercera palabra es menor a la longitud de la pr¡mera
 
 
 
-## 
+## diagrama de flujo
+https://subefotos.com/ver/?c6a82e2db835c8a8591f0d1716ef272fo.png#codigos
